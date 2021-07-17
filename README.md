@@ -1,4 +1,4 @@
-👋 Hi, I’m @Riviere123
+👋 Hi, I’m Curtis
 
 I'm capable of coding in C#, Python, HTML, CSS, and Bash. 
 I've recently completed 450+ hours of hands on technical instructions through Per Scholas in Linux, Python, Networking, Network Security, system hardening, and cloud infrastructure. 
